@@ -11,7 +11,8 @@ fact(num,prod);
 return prod;
 }
 
-int main() {
+int main() 
+{
 int num;
 long int prod=1;
 cout<<"Enter any number.";

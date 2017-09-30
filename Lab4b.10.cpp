@@ -9,7 +9,7 @@ int fibo_recur(int n)
    else if(n==2)
        return 1;
     else
-        return fibo_recur(n - 1) + fibo_recur(n - 2);;
+        return fibo_recur(n - 1) + fibo_recur(n - 2);
 }
 
 int main()
